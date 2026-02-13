@@ -1,4 +1,5 @@
-# Data Scientist
+# Data Scientist- SONA AGHABEKYAN
+Updated README with new features
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
